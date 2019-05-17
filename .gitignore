@@ -1,0 +1,12 @@
+*.pyc
+settings.py
+
+/.pydevproject
+/.project
+/nbproject/private/
+/tmp/
+/.vscode/
+/celerybeat-schedule
+venv
+__pycache__
+*.session

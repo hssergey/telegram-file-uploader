@@ -1,0 +1,2 @@
+Telethon==1.7.7
+PySocks==1.6.8
